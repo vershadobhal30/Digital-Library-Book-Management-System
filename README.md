@@ -33,6 +33,7 @@ Setup and run Instructions :
 To get a local copy of the project, open **Terminal (Mac/Linux) or Command Prompt (Windows)** and run:
 
 bash
+
 git clone https://github.com/YourUsername/YourRepositoryName.git
 
 Replace YourUsername and YourRepositoryName with your actual GitHub username and repository name.
@@ -40,13 +41,11 @@ Replace YourUsername and YourRepositoryName with your actual GitHub username and
 
 ** Step 2: Navigate to the Project Folder
 
-bash
 cd YourRepositoryName
 
 
 ** Step 3: Compile the Java Files
 
-bash
 javac Book.java Library.java LibraryManagementSystem.java
 
              OR
@@ -56,7 +55,6 @@ You can run directly your main Java file example -( javac LibraryManagementSyste
 
 ** Step 4: Run the Main Program (LibraryManagementSystem.java is the entry point)
 
-bash
 java LibraryManagementSystem
 
 
