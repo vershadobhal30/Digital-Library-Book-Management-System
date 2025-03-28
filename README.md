@@ -31,6 +31,7 @@ Setup and run Instructions :
 ** Step 1: Clone the Repository 
 
 To get a local copy of the project, open **Terminal (Mac/Linux) or Command Prompt (Windows)** and run:
+
 ```bash
 git clone https://github.com/YourUsername/YourRepositoryName.git
 
